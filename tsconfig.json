@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "es5",
         "outFile": "js/app.js",
-        //"module": "commonjs",
+        "module": "AMD",
         "sourceMap": true
     }
 }
